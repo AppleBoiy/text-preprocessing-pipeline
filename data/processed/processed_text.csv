@@ -1,0 +1,6 @@
+id,text_column,processed_tokens
+1,This is the first sample text! It includes a URL: https://example.com and some punctuation.,"['first', 'sampl', 'text', 'includ', 'url', 'punctuat']"
+2,NLP is amazing. You can preprocess data to build better models!,"['nlp', 'amaz', 'preprocess', 'data', 'build', 'better', 'model']"
+3,"Remove stopwords, clean the text, and stem words to normalize them.","['remov', 'stopword', 'clean', 'text', 'stem', 'word', 'normal']"
+4,"Let's analyze this text data, preprocess it, and make it ready for NLP tasks.","['let', 'analyz', 'text', 'data', 'preprocess', 'make', 'readi', 'nlp', 'task']"
+5,Visit our website at www.example-site.org for more details about text preprocessing.,"['visit', 'websit', 'detail', 'text', 'preprocess']"
